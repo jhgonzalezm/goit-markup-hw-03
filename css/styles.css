@@ -29,9 +29,6 @@
   padding: 0px 15px;
 }
 
-.main-introduction {
-  justify-content: center;
-}
 .navigation-container {
   display: flex;
   padding: 32px 0px;
@@ -154,6 +151,7 @@ p {
   font-weight: 400;
 }
 .main-introduction {
+  justify-content: center;
   background-color: var(--main-introducion);
 }
 
@@ -257,6 +255,7 @@ span {
   flex-basis: calc((100%-20px) / 4);
   gap: 25px;
   padding-left: 0;
+  padding-bottom: 94px;
   justify-content: center;
   margin: 0px 0px 0px 0px;
 }
