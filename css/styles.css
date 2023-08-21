@@ -30,10 +30,13 @@
   margin: 0px auto;
   padding: 0px 15px;
 }
+.brd-header {
+  border: 1px solid rgba(236, 236, 236, 1);
+}
 
 .navigation-container {
   display: flex;
-  border: 1px solid rgba(236, 236, 236, 1);
+
   align-items: center;
 }
 
