@@ -38,7 +38,7 @@
   align-items: center;
 }
 
-.hero-navigation li a {
+.hero-navigation a {
   color: var(--body-color);
 }
 .hero-navigation li:hover a:hover {
@@ -347,7 +347,7 @@ span {
 .shadow-equipo span {
   background-color: var(--basic-color);
 }
-.current {
+.hero-navigation a[class='current'] {
   color: var(--web-color);
 }
 .main-equipo {
